@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter    xml:id="python_2x_3x"
+            xmlns="http://docbook.org/ns/docbook"
+            xmlns:xl="http://www.w3.org/1999/xlink"
+            xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+            xmlns:ns4="http://www.w3.org/1999/xhtml"
+            xmlns:ns3="http://www.w3.org/2000/svg"
+            xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python的两大版本：Python 2.x和Python 3.x</title>
+
+<para></para>
+
+<tip xml:id="tip.python_2x_3x"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/simple_intro_what_is_python_and_how_to_run_python_script">【整理】Python语言简介</link></para>
+    <para><link xl:href="http://www.crifan.com/how_to_convert_python2_into_python3">【教程】如何把Python2的代码转换为Python3的代码</link></para>
+    <para><link xl:href="http://www.crifan.com/python_note_about_upgrade_from_version_2_to_version_3">【整理】关于Python从2.x.x版本升级到3.x.x版本需要注意的事情</link></para>
+</tip>
+
+
+</chapter>

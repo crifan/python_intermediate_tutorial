@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_database" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的数据库相关</title>
+
+<para></para>
+
+<tip xml:id="tip.python_database"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/try_python_to_operate_mysql">【记录】使用Python操作MySQL数据库</link></para>
+    <para><link xl:href="http://www.crifan.com/python_install_module_mysql_mysqldb">【记录】为Python安装MySQL数据库模块：MySQLdb</link></para>
+</tip>
+
+
+</chapter>

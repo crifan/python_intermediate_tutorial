@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_module_package" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的模块和包</title>
+
+<para></para>
+
+<tip xml:id="tip.python_module_package"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/explanation_about_python_standard_libaray_and_third_party_library">【教程】Python中的内置的模块 和第三方的模块</link></para>
+    <para><link xl:href="http://www.crifan.com/summary_methods_of_install_third_party_library_or_package_of_python">【待完善】【总结】Python安装第三方的库、package的方法</link></para>
+    <para><link xl:href="http://www.crifan.com/python_import_modules_under_sub_folders">【已解决】Python中导入子文件夹中的模块</link></para>
+    <para><link xl:href="http://www.crifan.com/python_importerror_no_module_named_win32com_client">【已解决】Python中出错：ImportError: No module named win32com.client</link></para>
+</tip>
+
+</chapter>

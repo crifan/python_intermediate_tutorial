@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_cmd_para" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的命令行参数</title>
+
+<para></para>
+
+<tip xml:id="tip.python_cmd_para"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/python_capture_and_parse_command_line_parameter">【整理】Python中如何获得并处理命令行参数</link></para>
+    <para><link xl:href="http://www.crifan.com/python_export_the_argparse_module_parsed_argument">【已解决】Python中，如何导出argparse解析后的namespace中的变量（export argparse parsed argument）</link></para>
+    <para><link xl:href="http://www.crifan.com/python_enumarate_or_iterate_namespace_variable">【已解决】python中枚举（enumerate/iterate）域名（namespace）变量</link></para>
+</tip>
+
+
+</chapter>

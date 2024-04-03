@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_others" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的其他相关的内容</title>
+
+<para></para>
+
+<tip xml:id="tip.python_others"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/summary_python_logging_module_usage">【整理】Python中的logging模块的使用（可以实现同时输出信息到cmd终端窗口和log文件（txt）中）</link></para>
+    <para><link xl:href="http://www.crifan.com/python_after_write_file_then_do_not_know_how_long_to_sleep_is_safe_close">【整理】Python中写完文件再关闭后，不知道需要sleep多长时间才是安全的（才能保持数据真正写入了）</link></para>
+    <para><link xl:href="http://www.crifan.com/while_install_scrapy_error_unable_to_find_vcvarsall_bat">【已解决】安装Scrapy过程中出错：error: Unable to find vcvarsall.bat</link></para>
+    <para><link xl:href="http://www.crifan.com/python_access_parent_nesting_function_local_variable_from_nested_function">【已解决】Python中如何在嵌套函数内部访问被嵌套（的父级函数）中的（局部，非全局）变量</link></para>
+    <para><link xl:href="http://www.crifan.com/python_string_format_fill_with_chars_and_set_alignment">【已解决】Python中，带填充和设置对齐方式的，格式化字符串输出</link></para>
+    <para><link xl:href="http://www.crifan.com/try_python_psutil">【记录】折腾Python中的psutil：一个用于获得处理器和系统相关信息的模块</link></para>
+    <para><link xl:href="http://www.crifan.com/try_python_mmseg_chinese_segment_on_mmseg_algorithm">【记录】折腾Python中的mmseg中文分词模块</link></para>
+    <para><link xl:href="http://www.crifan.com/python_mmseg_error_unable_to_find_vcvarsall_bat">【已解决】安装Python模块mmseg出错：error: Unable to find vcvarsall.bat</link></para>
+    <para><link xl:href="http://www.crifan.com/python_mmseg_link_error_lnk2001_unresolved_external_symbol_initmmseg">【未解决】Python中安装mmseg时编译出错：LINK : error LNK2001: 无法解析的外部符号 initmmseg</link></para>
+    <para><link xl:href="http://www.crifan.com/python_import_mmseg_windowserror_error_126">【未解决】Python中去运行mmseg代码结果出错：WindowsError: [Error 126]</link></para>
+    <para><link xl:href="http://www.crifan.com/python_convert_string_to_function_then_call">【已解决】Python中，将字符串转换为函数，并且实现带参数的函数调用</link></para>
+    <para><link xl:href="http://www.crifan.com/python_making_charts_module_pycha">【记录】折腾Python中的一个绘制图表的模块：pycha</link></para>
+    <para><link xl:href="http://www.crifan.com/python_cairo_module_pycairo">【记录】安装Python版本的cairo模块：Pycairo</link></para>
+    <para><link xl:href="http://www.crifan.com/python_setup_py_install_importerror_no_module_named_setuptools">【已解决】Python中使用setup.py install去安装别的模块结果出错：ImportError: No module named setuptools</link></para>
+    <para><link xl:href="http://www.crifan.com/python_importerror_no_module_named_lines">【已解决】Python代码运行出错：ImportError: No module named lines</link></para>
+    <para><link xl:href="http://www.crifan.com/use_pyinstaller_to_package_python_to_single_executable_exe">【记录】用PyInstaller把Python代码打包成单个独立的exe可执行文件</link></para>
+    <para><link xl:href="http://www.crifan.com/use_cx_freeze_to_package_python_to_single_executable_exe">【记录】用cx_Freeze把Python代码打包成单个独立的exe可执行文件</link></para>
+    <para><link xl:href="http://www.crifan.com/python_cx_freeze_importerror_no_module_named_traceback">【已解决】Python中通过cs_Freeze去打包exe出错：ImportError: No module named 'traceback'</link></para>
+    <para><link xl:href="http://www.crifan.com/python_module_pil">【记录】下载和安装Python的第三方图像处理的库：PIL(Python Imaging Library)</link></para>
+    <para><link xl:href="http://www.crifan.com/python_install_pip_error_python_version_2_7_required_which_was_not_found_in_the_registry">【已解决】Python中通过PIL-1.1.7.win32-py2.7.exe安装PIL结果出错：Python version 2.7 required, which was not found in the registry</link></para>
+    <para><link xl:href="http://www.crifan.com/python_module_pprint">【记录】折腾Python中的pprint</link></para>
+</tip>
+
+
+</chapter>

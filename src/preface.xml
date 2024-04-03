@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE preface>
+
+<preface xml:id="preface" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>前言</title>
+
+<sect1 xml:id="purpose"><title>本文目的</title>
+    <tip xml:id="tip.python_intermediate_tutorial"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/python_related_knowledge_during_development">【整理】Python开发过程中相关方面的知识</link></para>
+    </tip>
+
+    <para>本文目的在于，在已经学习了的Python的基本知识之后，继续深入学习Python时，遇到某些具体的领域的内容时，提供一些参考资料。</para>
+    <tip xml:id="tip.python_basic_tutorial"><title>Python的基础知识教程</title>
+        <para>如果对于Python基本的知识不了解，可以参考Python的基础知识教程：</para>
+        <para><link xl:href="http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html">python初级教程：入门详解</link></para>
+    </tip>
+
+</sect1>
+
+</preface>

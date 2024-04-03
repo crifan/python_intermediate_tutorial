@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_csv_excel" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的CSV,Excel</title>
+
+<para></para>
+
+<tip xml:id="tip.python_csv_excel"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/python_read_write_csv_file">【记录】使用Python读取/导出（写入）CSV文件</link></para>
+    <para><link xl:href="http://www.crifan.com/export_data_to_excel_file_in_python">【记录】Python中生成（写入数据到）Excel文件中</link></para>
+    <para><link xl:href="http://www.crifan.com/python_xlwt_set_cell_background_color">【已解决】Python中使用xlwt设置cell的背景色</link></para>
+    <para><link xl:href="http://www.crifan.com/python_append_new_data_into_existing_excel_xls_file">【整理】Python中，添加写入数据到已经存在的Excel的xls文件，即打开excel文件，写入新数据</link></para>
+    <para><link xl:href="http://www.crifan.com/python_read_excel_xls_file_xlrd">【记录】Python中安装xlrd模块</link></para>
+    <para><link xl:href="http://www.crifan.com/python_excel_xls_file_operation_xlutils">【记录】Python中安装可以读写excel的xls文件的xlutils模块（需依赖于xlrd和xlwt）</link></para>
+    <para><link xl:href="http://www.crifan.com/python_xlutils_copy_attributeerror_module_object_has_no_attribute_copy">【已解决】Python中使用xlutils.copy出错：AttributeError: 'module' object has no attribute 'copy'</link></para>
+    <para><link xl:href="http://www.crifan.com/python_xlutils_copy_attributeerror_str_object_has_no_attribute_datemode">【已解决】Python中使用xlutils的copy出错：AttributeError: 'str' object has no attribute 'datemode'</link></para>
+    <para><link xl:href="http://www.crifan.com/python_process_excel_chart_graph">【已解决】Python中处理操作Excel中的图表（Chart，Graph）</link></para>
+    <para><link xl:href="http://www.crifan.com/python_pywintypes_com_error_exception_occurred_microsoft_excel_xls_could_not_be_found_check_the_spelling_of_the_file_name">【已解决】Python中出错：pywintypes.com_error,Exception occurred,Microsoft Excel,could not be found</link></para>
+</tip>
+
+
+</chapter>

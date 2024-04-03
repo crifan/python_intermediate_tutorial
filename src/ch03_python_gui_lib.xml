@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="python_gui_lib" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>Python中的图形库</title>
+
+<para></para>
+
+<tip xml:id="tip.python_gui_lib"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/summary_python_graphics_gui_libs_packages">【整理】Python中的图形库</link></para>
+    <para><link xl:href="http://www.crifan.com/try_python_tkinter_module">【记录】折腾Python中的Tkinter</link></para>
+    <para><link xl:href="http://www.crifan.com/try_with_python_gui_lib_graphics">【记录】尝试Python的图形库：graphics</link></para>
+    <para><link xl:href="http://www.crifan.com/python_3_2_2_runtime_error_r6025_pure_virtual_function_call">【已解决】Python中运行graphics图形库，结果出错：Runtime Error! R6025 pure virtual function call</link></para>
+    <para><link xl:href="http://www.crifan.com/wxpython_download_and_install_and_try_it">【记录】下载，安装，试用wxPython</link></para>
+    <para><link xl:href="http://www.crifan.com/python_module_pyqt4">【记录】折腾Python的PyQt4模块</link></para>
+</tip>
+
+
+</chapter>
